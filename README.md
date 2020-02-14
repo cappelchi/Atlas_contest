@@ -1,7 +1,10 @@
 # Atlas_contest
 3 задачи с примерами и вводными данными, а также информацией по необходимому ПО.
+
 https://habr.com/ru/company/atlasbiomed/blog/480954/
+
 https://habr.com/ru/company/atlasbiomed/blog/481334/
+
 https://habr.com/ru/company/atlasbiomed/blog/481750/
 
 Дисклеймер
