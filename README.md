@@ -1,6 +1,7 @@
 # Atlas_contest
-![Analyse](https://github.com/cappelchi/Atlas_contest/blob/master/img/Atlas_contest2_plot3.png)
 2 задачи с примерами и вводными данными, а также информацией по необходимому ПО.
+
+![Analyse](https://github.com/cappelchi/Atlas_contest/blob/master/img/Atlas_contest2_plot3.png)
 
 https://habr.com/ru/company/atlasbiomed/blog/480954/
 
